@@ -1,1 +1,1 @@
-# web-scraping
+## Ferramenta de web scraping (raspagem de dados) e resumo de textos de determinado sites 
